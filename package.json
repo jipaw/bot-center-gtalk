@@ -1,0 +1,21 @@
+{
+  "name": "center-gtalk",
+  "version": "1.0.0",
+  "description": "bot for center-gtalk",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot",
+    "xmpp",
+    "gtalk"
+  ],
+  "author": "fauzi rahman",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "mysql": "^2.13.0",
+    "node-xmpp": "^1.1.0"
+  }
+}
